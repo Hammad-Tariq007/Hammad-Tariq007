@@ -71,9 +71,9 @@
 
 ## 📬 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/hammad-tariq007)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=vercel&logoColor=white&style=for-the-badge)](https://hammad-tariq007.github.io/My_Portfolio)  
-[![Gmail](https://img.shields.io/badge/-hammadbin.tariq@gmail.com-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:hammadbin.tariq@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/hammad-bin-tariq-b040a4281/)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=vercel&logoColor=white&style=for-the-badge)](https://portfolio-hammad-bin-tariq.vercel.app/)  
+[![Gmail](https://img.shields.io/badge/-hammadbin.tariq@gmail.com-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:hammadtariq0007@gmail.com)
 
 ---
 
