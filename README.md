@@ -46,50 +46,14 @@
 
 ## 🌟 Featured Projects
 
-<p align="center">
-  <table>
-    <thead>
-      <tr>
-        <th>Name</th>
-        <th>Tech</th>
-        <th>Description</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><b><a href="https://fitnessfreaks.vercel.app">Fitness Freaks</a></b></td>
-        <td>MERN, AI, Tailwind</td>
-        <td>AI-powered fitness & diet app with sleek UI and OpenAI integration</td>
-      </tr>
-      <tr>
-        <td><b>Mystique</b></td>
-        <td>React, MongoDB</td>
-        <td>Fashion-forward web platform with product filtering and user auth</td>
-      </tr>
-      <tr>
-        <td><b>Glamify</b></td>
-        <td>MERN, UI/UX</td>
-        <td>Beauty eCommerce platform with animated carousel and custom UI</td>
-      </tr>
-      <tr>
-        <td><b>Bag Bliss</b></td>
-        <td>PHP, JS</td>
-        <td>Elegant women’s bag store with inventory management</td>
-      </tr>
-      <tr>
-        <td><b>Reboot</b></td>
-        <td>HTML, CSS, PHP</td>
-        <td>Stylish shoe store built with responsive design</td>
-      </tr>
-      <tr>
-        <td><b>Portfolio</b></td>
-        <td>React</td>
-        <td>This very professional portfolio site hosted on GitHub Pages</td>
-      </tr>
-    </tbody>
-  </table>
-</p>
-
+| Name | Tech | Description |
+|------|------|-------------|
+| **[Fitness Freaks](https://fitness-freaks.site/)** | MERN, AI, Tailwind | AI-powered fitness & diet app with sleek UI and OpenAI integration |
+| **Mystique** | React, MongoDB | Fashion-forward web platform with product filtering and user auth |
+| **Glamify** | MERN, UI/UX | Beauty eCommerce platform with animated carousel and custom UI |
+| **Bag Bliss** | PHP, JS | Elegant women’s bag store with inventory management |
+| **Reboot** | HTML, CSS, PHP | Stylish shoe store built with responsive design |
+| **Portfolio** | React | This very professional portfolio site hosted on GitHub Pages |
 
 ---
 
