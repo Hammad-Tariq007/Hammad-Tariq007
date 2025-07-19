@@ -73,7 +73,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/hammad-bin-tariq-b040a4281/)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=vercel&logoColor=white&style=for-the-badge)](https://portfolio-hammad-bin-tariq.vercel.app/)  
-[![Gmail](https://img.shields.io/badge/-hammadbin.tariq@gmail.com-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:hammadtariq0007@gmail.com)
+[![Gmail](https://img.shields.io/badge/-hammadtariq0007@gmail.com-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:hammadtariq0007@gmail.com)
 
 ---
 
