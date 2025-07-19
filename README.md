@@ -1,6 +1,6 @@
 <!-- BANNER / HERO -->
 <p align="center">
-  <img src="https://i.imgur.com/1gY0ifv.png" alt="banner" width="100%" />
+  <img src="b3.png" alt="banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Hammad Bin Tariq 👋</h1>
